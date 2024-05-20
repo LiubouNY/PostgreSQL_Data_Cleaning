@@ -7,7 +7,7 @@
 
 --Creating table and coping data from CSV file into table
 
-CREATE OR REPLACE TABLE world_layoffs.layoffs AS (
+CREATE OR REPLACE TABLE world_layoffs.layoffs (
 	company VARCHAR(50),
 	location VARCHAR(50),
 	industry VARCHAR(50),
