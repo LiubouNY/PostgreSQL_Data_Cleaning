@@ -5,4 +5,4 @@ https://www.kaggle.com/datasets/swaptr/layoffs-2022/data
 
 After data cleaning this dataset was used to create Tableau visualization
 https://public.tableau.com/app/profile/liubou.ushakova/vizzes
-![Tableau_layoffs](images/thumbs/05.JPG)
+![Tableau_layoffs](images/thumbs/03.jpgimages/thumbs/03.jpg)
